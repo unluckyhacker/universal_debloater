@@ -1,0 +1,16 @@
+cn.oneplus.opmms
+cn.oneplus.photos
+com.oneplus.aod
+com.oneplus.filemanager
+com.oneplus.gameinstaller
+com.oneplus.gamespace
+com.oneplus.instant.translation
+com.oneplus.mms
+net.oneplus.music
+com.heytap.health
+com.oneplus.filemanager
+net.oneplus.weather
+com.oneplus.gallery
+com.oneplus.gamespace
+com.oneplus.soundrecorder
+com.oneplus.note
